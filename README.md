@@ -1,5 +1,8 @@
 ![image](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Reverse%20Engineering.png?raw=true)
 
+
+# wip https://twitter.com/binitamshah/status/1524051663602200577 /creel 
+
 A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 
 <br>
